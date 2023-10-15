@@ -1,0 +1,8 @@
+C:\Users\radio\Labs\C#\Работа_CS_105\Работа_CS_105\bin\Debug\Работа_CS_105.exe.config
+C:\Users\radio\Labs\C#\Работа_CS_105\Работа_CS_105\bin\Debug\Работа_CS_105.exe
+C:\Users\radio\Labs\C#\Работа_CS_105\Работа_CS_105\bin\Debug\Работа_CS_105.pdb
+C:\Users\radio\Labs\C#\Работа_CS_105\Работа_CS_105\obj\Debug\Работа_CS_105.csproj.AssemblyReference.cache
+C:\Users\radio\Labs\C#\Работа_CS_105\Работа_CS_105\obj\Debug\Работа_CS_105.csproj.SuggestedBindingRedirects.cache
+C:\Users\radio\Labs\C#\Работа_CS_105\Работа_CS_105\obj\Debug\Работа_CS_105.csproj.CoreCompileInputs.cache
+C:\Users\radio\Labs\C#\Работа_CS_105\Работа_CS_105\obj\Debug\Работа_CS_105.exe
+C:\Users\radio\Labs\C#\Работа_CS_105\Работа_CS_105\obj\Debug\Работа_CS_105.pdb
